@@ -2,3 +2,4 @@
 # Format: USER:username:sha256_password_hash:expiry_date
 
 USER:admin:ac9689e2272427085e35b9d3e3e8bed88cb3434828b43b86fc0596cad4c6e270:2026-04-22
+USER:waqar:b4a19c5c234edacd44ef00759de6fbb1b6a363666eb6be68703b5b5361956893:2026-02-24
