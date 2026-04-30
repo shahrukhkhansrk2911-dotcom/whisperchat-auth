@@ -1,3 +1,4 @@
 # chats Auth File - DO NOT SHARE PAT TOKEN
 # Format: USER:username:sha256_password_hash:expiry_date
 
+USER:kamran:01d78ddb5b8cd278a44cee1a15ce9eeb67b433cdab7f830ea250cafa05393649:2026-05-30
