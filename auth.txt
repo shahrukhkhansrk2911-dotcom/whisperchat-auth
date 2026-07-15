@@ -2,5 +2,4 @@
 # Format: USER:username:sha256_password_hash:expiry_date
 
 USER:kamran:01d78ddb5b8cd278a44cee1a15ce9eeb67b433cdab7f830ea250cafa05393649:2027-05-30
-USER:Hamza:2080964fffeaa63cf8b1bbe90761e35f81bae8e12afe6959c0c5714ae7572df2:2026-10-31
 USER:haider:dc821bfd04917f40458b9edb5e723bb97ee4ebedf1bc81fc1613d935066ff3ef:2027-07-06
